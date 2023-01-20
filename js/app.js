@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-  let url = "https://newsapi.org/v2/top-headlines?country=in&excludeDomains=stackoverflow.com&sortBy=publishedAt&language=en&apiKey=8bd06e04e765458a8c02c3364a6e5f52";
+  let url = "YOUR API KEY";
 
   $.ajax({
     url: url,
