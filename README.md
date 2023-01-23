@@ -1,2 +1,2 @@
 # News_app_api
-news wubsite using google news api
+news website using google news api
